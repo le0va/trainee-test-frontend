@@ -1,0 +1,36 @@
+.create-user__container {
+    display: flex;
+    align-items: center;
+    background-color: #eee;
+    padding: 6px 13px;
+    border-radius: 6px;
+}
+
+.create-user__button {
+    margin-left: auto;
+    outline: none;
+    border: none;
+    background-color: #f44336;
+    color: white;
+    padding: 10px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+input {
+    outline: none;
+    padding: 10px;
+    max-height: 20px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+
+}
+
+.create-user__rank-input {
+    max-width: 30px;
+}
+
+p {
+    margin-top: 15px;
+    padding: 0;
+}
